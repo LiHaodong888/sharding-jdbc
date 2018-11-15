@@ -1,5 +1,6 @@
 # sharding-jdbc
 使用mysql自身特质 做的mysql主从复制 sharding-jdbc做的读写分离
+
 具体解读在我的博客 www.lhdyx.cn
 一. 开始主从配置(我用的mysql8.0)
          1、主从服务器分别作以下操作：
